@@ -6,3 +6,6 @@ class Block:
 
     def getHashBlock():
         return hash(self)
+
+    def transformMerkelRoot():
+        #

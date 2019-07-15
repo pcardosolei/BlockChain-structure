@@ -5,3 +5,4 @@ class BlockChain:
         self.blocks = []
 
     def initGenesisBlock():
+        genesisBlock = new Block(000000000000000000000000,
